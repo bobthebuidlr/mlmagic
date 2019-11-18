@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ml-magic
+Version: 0.1
+Summary: A ML supportive library for analysis
+Home-page: https://github.com/bwvdhelm/ml-magic
+Author: Bob van der Helm
+Author-email: bvanderh@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
